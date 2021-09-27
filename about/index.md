@@ -1,37 +1,41 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: WHO AM I
+tags: [about, harry]
+date: 2021-08-08
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://harryz-photography.com"><b>photographer</b></a> and English teacher living in Japan</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Harry is ...
+* From India, In Japan.
+* High school English teacher
+* I love street photography, landscape and events.
+* My main passion is the street photography.
+* (example) Optional post image
+* (example) Social icons
+* (example) Page for sharing projects
+* (example) Optional background image
+* (example) Simple navigation menu
+* (example) MathJax support
 
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://pds.harryzspot.com/about-website1.png
+    https://pds.harryzspot.com/about-website2.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of My Gallery" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See a [my pictures](https://www.flickr.com/photos/harryzphotography) hosted on Flikr.
 
-## Getting Started
+## My Website
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+My Flikr, I love street photography, landscape and events.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Go Flickr](https://www.flickr.com/photos/harryzphotography){: .btn}
+
+My official website of photography.
+      
+[Go Gallery](https://www.harryz-photography.com){: .btn}
